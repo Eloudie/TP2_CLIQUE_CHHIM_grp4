@@ -44,3 +44,7 @@ public class System_hospitalier {
 	}
 
 }
+analyserRequete prend une requete entrée en paramètre, l'analyse et retourne le fait 
+qu' elle ait été analysée.
+
+ComparerDonnées compare des données et retourne qu'il y a un cluster s'il y a un problème.
